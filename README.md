@@ -32,17 +32,32 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+module BOOLEAN (
+    input A,
+    input B,
+    output F
+);
+
+assign F = A | B;
+
+endmodule
+
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+DevelopedY by :dhanadevan
+RegisterNumber:25013996
 
 
 **RTL realization**
+<img width="585" height="366" alt="image" src="https://github.com/user-attachments/assets/84667a47-7239-4fa8-a53a-d971b3ad8086" />
+
 
 **Output:**
 
 **RTL**
+<img width="1312" height="479" alt="image" src="https://github.com/user-attachments/assets/a04d995b-bef1-4d7a-9290-8b9a24283fce" />
+
 
 **Timing Diagram**
 
