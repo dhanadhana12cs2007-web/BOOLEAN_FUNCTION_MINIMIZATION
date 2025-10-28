@@ -32,6 +32,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+
+```
 module BOOLEAN (
     input A,
     input B,
@@ -60,6 +62,7 @@ RegisterNumber:25013996
 
 
 **Timing Diagram**
+```
 
 **Result:**
 
