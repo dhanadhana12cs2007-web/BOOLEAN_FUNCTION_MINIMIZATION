@@ -45,7 +45,7 @@ endmodule
 ```
 
 
-Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+Program to implement the given logic function and to verify its operations in quartus using Verilog programming
 
 **Developed by:** Jeeva Nivas M 
 **RegisterNumber:** 25015894 
